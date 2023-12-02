@@ -1,6 +1,6 @@
 # Café Odyssey
 
-Welcome to Café Odyssey, where each cup is a passport to a world of coffee adventures! ☕✈️
+Welcome to Café Odyssey, where each cup is a passport to a world of coffee adventures! ☕ ✈️
 
 ## About Us
 
@@ -27,4 +27,4 @@ Café Odyssey is not just a coffee shop; it's a portal to a world of coffee adve
 3. Explore our merchandise to enhance your coffee experience.
 4. Share your coffee adventures with us on social media using #CafeOdyssey.
 
-Enjoy your coffee journey at Café Odyssey! ☕🌍
+Enjoy your coffee journey at Café Odyssey! ☕ 🌍
