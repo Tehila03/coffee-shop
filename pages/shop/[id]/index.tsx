@@ -54,11 +54,11 @@ const ShopPage: NextPage = () => {
   return (
     <Layout
       pageMeta={{
-        title: `COFFFEE | ${itemData ? itemData.name.toUpperCase() : "Shop"}`,
+        title: `COFFEE | ${itemData ? itemData.name.toUpperCase() : "Shop"}`,
         description: `${
           itemData
             ? itemData.description
-            : "The best gear this COFFFEE shop has to offer"
+            : "The best gear this COFFEE shop has to offer"
         }`,
         image: itemData ? itemData.image.src : Hero.src,
         imageAlt: itemData

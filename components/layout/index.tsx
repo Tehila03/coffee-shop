@@ -22,7 +22,7 @@ const Layout: React.FC<LayoutProps> = ({ children, pageMeta }) => {
     type: "website",
     image: Hero.src,
     twitterImage:
-      "https://coffee-shop.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcofffee-hero.794201de.jpg&w=750&q=75",
+      "https://coffee-shop.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoffee-hero.794201de.jpg&w=750&q=75",
     imageAlt:
       "A coffee shop arpund the world",
     url: `https://coffee-shop.vercel.app${router.asPath}`,
@@ -35,7 +35,7 @@ const Layout: React.FC<LayoutProps> = ({ children, pageMeta }) => {
         <title>{meta.title}</title>
         <meta name="description" content={meta.description} />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="COFFFEE SHOP" />
+        <meta property="og:site_name" content="COFFEE SHOP" />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
         <meta property="og:description" content={meta.description} />

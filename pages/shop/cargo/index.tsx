@@ -6,7 +6,7 @@ const CargoPage: NextPage = () => {
   return (
     <Layout
       pageMeta={{
-        title: "COFFFEE | Cargo",
+        title: "COFFEE | Cargo",
       }}
     >
       <CargoView />

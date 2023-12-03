@@ -104,7 +104,7 @@ const NavBar: React.FC<NavBarProps> = (props: NavBarProps) => {
       <div className={styles.logoContainer}>
         <Link href="/">
           <a className={styles.logo} onClick={() => setSelected(0)}>
-            COFFFEE
+            COFFEE
           </a>
         </Link>
       </div>

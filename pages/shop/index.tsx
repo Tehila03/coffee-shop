@@ -6,8 +6,8 @@ const ShopPage: NextPage = () => {
   return (
     <Layout
       pageMeta={{
-        title: "COFFFEE | Shop",
-        description: "The best gear this COFFFEE shop has to offer",
+        title: "COFFEE | Shop",
+        description: "The best gear this COFFEE shop has to offer",
       }}
     >
       <ShopView />

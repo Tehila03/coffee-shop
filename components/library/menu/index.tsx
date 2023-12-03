@@ -9,7 +9,7 @@ const Menu: React.FC<MenuProps> = (props: MenuProps) => {
   return (
     <div className={styles.menuContainer} id="menu">
       <div className={styles.titleContainer}>
-        <h2 className={styles.logo}>COFFFEE</h2>
+        <h2 className={styles.logo}>COFFEE</h2>
         <h3 className={styles.tagline}>coffee first, questions later</h3>
       </div>
       <div className={styles.menuListContainer}>
