@@ -4,7 +4,7 @@ Welcome to Café Odyssey, where each cup is a passport to a world of coffee adve
 
 ## About Us
 
-At Café Odyssey, we believe in creating an immersive experience where the aroma and flavors of our coffee transport you to different corners of the globe. Our baristas are dedicated to crafting unique and exceptional beverages inspired by the world's finest coffee traditions.
+At Café Odyssey, we believe in creating an immersive experience where the aroma and flavors of our coffee transport you to different corners of the globe. Our baristas are dedicated to crafting unique beverages inspired by the world's finest coffee traditions.
 
 ## Running Locally
 
@@ -22,7 +22,7 @@ Café Odyssey is not just a coffee shop; it's a portal to a world of coffee adve
 
 ## How to Enjoy
 
-1. Visit us at [].
+1. Visit us at [(https://coffee-shop-tehila03s-projects.vercel.app/)].
 2. Order your favorite global-inspired coffee.
 3. Explore our merchandise to enhance your coffee experience.
 4. Share your coffee adventures with us on social media using #CafeOdyssey.
