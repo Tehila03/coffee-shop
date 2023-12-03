@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import SpaceWalk from "../../../public/assets/space-walk.jpg";
+import SpaceWalk from "../../../public/assets/worldtray.png";
 
 const styles = require("./error.module.scss");
 

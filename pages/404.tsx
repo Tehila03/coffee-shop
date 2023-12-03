@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../components/layout";
 import ErrorView from "../components/pages/error";
-import SpaceWalk from "../public/assets/space-walk.jpg";
+import SpaceWalk from "../public/assets/background.png";
 
 const ErrorPage: React.FC = () => {
   return (
@@ -9,7 +9,7 @@ const ErrorPage: React.FC = () => {
       pageMeta={{
         title: "Page Not Found",
         image: SpaceWalk.src,
-        imageAlt: "A dog astronaut floating in space",
+        imageAlt: "coffee cup",
       }}
     >
       <ErrorView />

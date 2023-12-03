@@ -101,7 +101,7 @@ const CargoView: React.FC<CargoViewProps> = (props: CargoViewProps) => {
           <ShowOnViewport customClass={styles.emptyCartPoem}>
             <>
               <p>
-                Your empty cart is a blank canvas for your upcoming journey.{" "}
+                Your empty cart is a blank map for your upcoming journey.{" "}
               </p>
               <p>
                 Imagine the exquisite flavors and aromas that will soon fill

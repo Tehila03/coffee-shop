@@ -3,9 +3,9 @@ import Link from "next/link";
 import Image from "next/image";
 import Menu from "../../library/menu";
 
-import HeroImage from "../../../public/assets/cofffee-hero.jpg";
-import CoffeeCupsImage from "../../../public/assets/cofffee-cups.jpg";
-import ShopImage from "../../../public/assets/astro-shop.jpg";
+import HeroImage from "../../../public/assets/background.png";
+import CoffeeCupsImage from "../../../public/assets/worldtray.png";
+import ShopImage from "../../../public/assets/shop.jpg";
 
 const styles = require("./landing.module.scss");
 
@@ -76,7 +76,7 @@ const LandingView: React.FC<LandingViewProps> = (props: LandingViewProps) => {
             </Link>
             <Image
               src={ShopImage}
-              alt="Astronaut drinking coffee and working at a laptop"
+              alt="World Coffee"
               layout="fill"
               objectFit="cover"
               placeholder="blur"
