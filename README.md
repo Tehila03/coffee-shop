@@ -22,7 +22,7 @@ Café Odyssey is not just a coffee shop; it's a portal to a world of coffee adve
 
 ## How to Enjoy
 
-1. Visit us at ([https://coffee-shop-tehila03s-projects.vercel.app/]).
+1. Visit us at https://coffee-shop-tehila03s-projects.vercel.app/.
 2. Order your favorite global-inspired coffee.
 3. Explore our merchandise to enhance your coffee experience.
 4. Share your coffee adventures with us on social media using #CafeOdyssey.
